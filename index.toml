@@ -481,11 +481,6 @@ hash = "372fd70a6144030642fe015462170259704ae3f197ae4d2a60e7053becb59a86"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "6a34c0b44a9f0a4ebbb04ae8af6cf86c2fce28353935226852d439c14e635f33"
-metafile = true
-
-[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "36c1fd3cee058f1e2fbceb2f45f30be2b763a74b73125dfa408d4b8bde410666"
 metafile = true
@@ -548,11 +543,6 @@ metafile = true
 [[files]]
 file = "mods/mffs.pw.toml"
 hash = "9c3e6a3963c7bdbea58e784461227ca0ea5395ec337f87b7d95a2739708880a6"
-metafile = true
-
-[[files]]
-file = "mods/mining-helmet-fabric.pw.toml"
-hash = "8fe4f88b33eb33746c5de69ab90102449bd3806f74e531d8b3192ffde3fb8931"
 metafile = true
 
 [[files]]

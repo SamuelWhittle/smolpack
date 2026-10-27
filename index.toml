@@ -451,11 +451,6 @@ hash = "4353468bcf2cb37573f59aa1278efedb75502968009457bbe06ad90391c835d8"
 metafile = true
 
 [[files]]
-file = "mods/jei-recipe-pins.pw.toml"
-hash = "0402a5004e19e2e1b3c9cc2c55a7d8308ab4d8afa67f01792e5c03b2f03e7dc7"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "3eae18e93cc3362f1fd7841c899b0fb96a59d5247c9f5bccb72e8abd1b269193"
 metafile = true

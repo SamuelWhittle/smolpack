@@ -1,0 +1,13 @@
+name = "Ender IO: Evolution"
+filename = "enderio_evolution-4.0.3-NeoForge-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hNO5fwqf/versions/GxMK110w/enderio_evolution-4.0.3-NeoForge-26.1.2.jar"
+hash-format = "sha512"
+hash = "3e7f84238f5bd7012101681f17524c2b9d0fc3f1b9d23598d42cb316a3f6ee5d3986f0c369f69ca73e3ad89e83946e39017f8d1b5fb0677647678756d11c8d1b"
+
+[update]
+[update.modrinth]
+mod-id = "hNO5fwqf"
+version = "GxMK110w"

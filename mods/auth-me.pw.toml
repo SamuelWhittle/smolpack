@@ -1,0 +1,13 @@
+name = "Auth Me"
+filename = "authme-neoforge-9.2.1+26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yjgIrBjZ/versions/sgiODmNN/authme-neoforge-9.2.1%2B26.1.jar"
+hash-format = "sha512"
+hash = "c258e8e1eb2131bb6cd161539321cf5b9ac6281cd82ff883d4a3e4da4ac2b941527cf173259d541e9ef2a900f8b2e1474ec4e925530ef6e1105f23163ae13d40"
+
+[update]
+[update.modrinth]
+mod-id = "yjgIrBjZ"
+version = "sgiODmNN"

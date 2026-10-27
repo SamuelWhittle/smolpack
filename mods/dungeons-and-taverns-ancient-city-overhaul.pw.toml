@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Ancient City Overhaul"
+filename = "dungeons-and-taverns-ancient-city-overhaul-3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DNuNq5bb/versions/Ouzht90u/dungeons-and-taverns-ancient-city-overhaul-3.3.jar"
+hash-format = "sha512"
+hash = "74dc626340d9f5f69b69fcc002c31c7139bb250d81a07043015aabe209c37cf4c4377fdf15a48ecaebdd61c202a41f8637a922845ad941974319828460e2f233"
+
+[update]
+[update.modrinth]
+mod-id = "DNuNq5bb"
+version = "Ouzht90u"

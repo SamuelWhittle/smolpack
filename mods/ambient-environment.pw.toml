@@ -1,0 +1,13 @@
+name = "Ambient Environment"
+filename = "AmbientEnvironment-neoforge-26.1.2-26.1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DyTvM1dv/versions/WS1DDh2L/AmbientEnvironment-neoforge-26.1.2-26.1.2.1.jar"
+hash-format = "sha512"
+hash = "0be91a03fc5adcb3ef397bf4cc03fd3b27d65f1ea7aa8b9a751460a0c9855ff73a2ff7d6a80113b3ea1e8be3c573cf0b12ba92bf81cd6cc7e92443e24e1a2634"
+
+[update]
+[update.modrinth]
+mod-id = "DyTvM1dv"
+version = "WS1DDh2L"

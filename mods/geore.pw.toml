@@ -1,0 +1,13 @@
+name = "GeOre"
+filename = "GeOre-26.1.2-8.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xw6zG9hl/versions/Pwl7e857/GeOre-26.1.2-8.1.0.jar"
+hash-format = "sha512"
+hash = "2ca98a80aede08d115bbc0d815e1dfc7dd5cc9b31a09206e2d85c32a064eda4af3be46f92528ce28d99b8189d6a45263943e1c7d64715346a4087c2168f7ece0"
+
+[update]
+[update.modrinth]
+mod-id = "Xw6zG9hl"
+version = "Pwl7e857"

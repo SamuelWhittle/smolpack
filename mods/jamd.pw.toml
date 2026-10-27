@@ -1,0 +1,13 @@
+name = "JAMD"
+filename = "jamd-neo-26.1.1.1+mc26.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d66a729603f79e419e4fce30a3925c8beb8b745d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7915797
+project-id = 422981

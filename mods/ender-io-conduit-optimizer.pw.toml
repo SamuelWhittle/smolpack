@@ -1,0 +1,13 @@
+name = "Ender IO: Conduit Optimizer"
+filename = "enderio_conduit_opt-1.0.0-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SgW9mQeM/versions/WnncJDQr/enderio_conduit_opt-1.0.0-26.1.2.jar"
+hash-format = "sha512"
+hash = "52f5292dd676b86c2a9fbd8101c36075fe8a02da3437af268106e07d1204735c5facb8f3598b85f6f492cb02150899a2074b5ce808e92613b5041a8cff6ae66f"
+
+[update]
+[update.modrinth]
+mod-id = "SgW9mQeM"
+version = "WnncJDQr"

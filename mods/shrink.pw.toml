@@ -1,0 +1,13 @@
+name = "Shrink"
+filename = "shrink-neoforge-26.1.2-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jzaTHh0C/versions/53RatLix/shrink-neoforge-26.1.2-2.1.1.jar"
+hash-format = "sha512"
+hash = "acbb277d84aea82c85d9c7a67727556d52760196b46572f77b181581d2c47e7cbf3ee69a856213b9d5420993fe6d303baf2a041c861f6100f0a90c3e8953ada3"
+
+[update]
+[update.modrinth]
+mod-id = "jzaTHh0C"
+version = "53RatLix"

@@ -1,0 +1,13 @@
+name = "Huge Structure Blocks"
+filename = "huge-structure-blocks-neoforge-1.1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AMLtKGdJ/versions/TjBTsG13/huge-structure-blocks-neoforge-1.1.9.jar"
+hash-format = "sha512"
+hash = "c9ea749c61a90d63c4e6a9f3b3e081d324e68bc6b6358ed4be899af3ed06c191b65a6256c67222852e9ee620acb44676658a0be3fd6231068a52c4507a9dfe78"
+
+[update]
+[update.modrinth]
+mod-id = "AMLtKGdJ"
+version = "TjBTsG13"

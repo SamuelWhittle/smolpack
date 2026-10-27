@@ -1,0 +1,13 @@
+name = "Pufferfish's Attributes"
+filename = "puffish_attributes-0.8.2-26.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FCFcFw09/versions/gyoJ3TXS/puffish_attributes-0.8.2-26.1-neoforge.jar"
+hash-format = "sha512"
+hash = "f566d434045e293f2e22011a736f76c9198a08df2b86ce4be8e15c8fa5ca97479379dffb8ed21377096145d08a50bb310971330c93ff3559b3fcb9d5f70325d4"
+
+[update]
+[update.modrinth]
+mod-id = "FCFcFw09"
+version = "gyoJ3TXS"

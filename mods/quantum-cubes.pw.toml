@@ -1,0 +1,13 @@
+name = "Quantum Cubes"
+filename = "quantumcubes-neoforge-26.1.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dfe56c753906dbe97ca94c0373677152d95f1c68"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9203621
+project-id = 1608480

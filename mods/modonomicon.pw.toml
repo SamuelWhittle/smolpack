@@ -1,0 +1,13 @@
+name = "Modonomicon"
+filename = "modonomicon-26.1.2-neoforge-2.17.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/692GClaE/versions/KC2CrUMt/modonomicon-26.1.2-neoforge-2.17.2.jar"
+hash-format = "sha512"
+hash = "7059161b7733212b0a27e82579c5590f3530b50939e727fb562cde878ad31612fae024fa1d28198dde6da4c23dd73a600249ad85eabf3d7309c41eb6cbde6fd3"
+
+[update]
+[update.modrinth]
+mod-id = "692GClaE"
+version = "KC2CrUMt"

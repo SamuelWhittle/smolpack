@@ -1,0 +1,13 @@
+name = "JEI Recipe Pins"
+filename = "jeirecipepins-26.1.2-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93e34140c61614847056c85448c8127183a6f659"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9173812
+project-id = 1688619

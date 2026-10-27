@@ -1,0 +1,13 @@
+name = "Construction Sticks"
+filename = "ConstructionSticks-26.1.2-3.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ooyjDLZt/versions/IHKUzTQn/ConstructionSticks-26.1.2-3.2.1.jar"
+hash-format = "sha512"
+hash = "716fe2288b8c13267e945db0afebefb33997070531ad5aac574f28d22c8e6a7374ef22b520017a61aff68807eced6d0dfc8b10fdcfe52b97399a519c796aab47"
+
+[update]
+[update.modrinth]
+mod-id = "ooyjDLZt"
+version = "IHKUzTQn"

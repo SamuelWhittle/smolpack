@@ -1,6 +1,6 @@
 name = "Sky Aesthetics"
 filename = "sky_aesthetics-neoforge-2.2.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2zaNpyqY/versions/ZKwxlVGT/sky_aesthetics-neoforge-2.2.0.jar"

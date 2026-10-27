@@ -2,10 +2,10 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "c425d9db670051f892639db4128e9bcb4e87f1f2579c5846a4dd14c32fc55cf2"
+hash = "3eae18e93cc3362f1fd7841c899b0fb96a59d5247c9f5bccb72e8abd1b269193"
 metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "bfdbbef7be0069346ff58af1a381dd8f5cc66940a9019701024d149693f87351"
+hash = "4e033ae86b2ca547d1000dff12be36ca79d44522ccbea6cddf476fa3897eaa63"
 metafile = true

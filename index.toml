@@ -1,2 +1,11 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "c425d9db670051f892639db4128e9bcb4e87f1f2579c5846a4dd14c32fc55cf2"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "bfdbbef7be0069346ff58af1a381dd8f5cc66940a9019701024d149693f87351"
+metafile = true

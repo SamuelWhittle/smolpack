@@ -1,0 +1,13 @@
+name = "Flopper"
+filename = "flopper-26.1.2-neoforge-1.1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "548abd5d3192d87f082101a113660545c4f5b68a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7968348
+project-id = 290404

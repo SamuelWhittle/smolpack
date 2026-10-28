@@ -1,0 +1,13 @@
+name = "Crafting Station: J/EMI Edition Updated"
+filename = "craftingstationjei-26.1.2-NeoForge-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f55fd4651f6195f729ca3374e471dad2ccd0a6c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9239424
+project-id = 1127715

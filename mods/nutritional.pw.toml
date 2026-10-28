@@ -1,0 +1,13 @@
+name = "Nutritional"
+filename = "nutritional-26.1.2-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7db31dd52a72746bdd9947b7b79a6425295695d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9264012
+project-id = 1579319

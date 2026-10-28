@@ -1,0 +1,13 @@
+name = "Super Factory Manager Retro"
+filename = "retrofactorymanager-26.1.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54d9fb4375971b555228e89eaf48b742b435245c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9035109
+project-id = 1632863

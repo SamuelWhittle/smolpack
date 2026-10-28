@@ -1,0 +1,13 @@
+name = "Recursive AE2 Pattern Provider"
+filename = "recursiveae2patternprovider-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbba6a7bd984b280324a8bed30b3af315f2ad598"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9204350
+project-id = 1337787

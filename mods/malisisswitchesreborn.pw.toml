@@ -1,0 +1,13 @@
+name = "MalisisSwitches Reborn"
+filename = "malisisswitchesreborn-neoforge-26.1.2-1.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "44835544377bc8168fc87e4ce69d5f855da02aa9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9280286
+project-id = 1526106

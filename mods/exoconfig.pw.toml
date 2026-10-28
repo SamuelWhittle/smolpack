@@ -1,0 +1,13 @@
+name = "ExoConfig"
+filename = "ExoConfig-26.1.2-neoforge-0.3.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d903ac4854a9c6652a58bf219421c58f88c4e0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9221341
+project-id = 1294777

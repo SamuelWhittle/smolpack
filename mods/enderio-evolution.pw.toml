@@ -1,0 +1,13 @@
+name = "Ender IO: Evolution"
+filename = "enderio_evolution-4.0.1-NeoForge-26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c995b362b1a74f2d8ead1cf18a7dd7ee1be7d81d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8221920
+project-id = 1453074

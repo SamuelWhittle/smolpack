@@ -1,0 +1,13 @@
+name = "FTB Echoes"
+filename = "ftb-echoes-26.1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3185efca7b636a75f4d76e6732c1c3766626403b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9068384
+project-id = 1369870

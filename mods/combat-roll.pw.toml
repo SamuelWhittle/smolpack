@@ -1,0 +1,13 @@
+name = "Combat Roll [Fabric & Forge]"
+filename = "combat_roll-neoforge-3.0.1+26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47cb66b87ff2e57153f0a389b02dd623a83b4f66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8456728
+project-id = 678036

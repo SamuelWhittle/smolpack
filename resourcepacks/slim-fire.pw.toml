@@ -1,0 +1,13 @@
+name = "Slim Fire"
+filename = "§eSlim§0 §eFire§0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7677d9610efa8f197c16e7dc3ee1555cddabc0f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7889669
+project-id = 1063731

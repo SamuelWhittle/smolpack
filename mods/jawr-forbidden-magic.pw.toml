@@ -1,0 +1,13 @@
+name = "JAWR: Forbidden Magic"
+filename = "witchery_forbidden_magic-0.5.22+mc26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc4469aa878ba6d9d3ca6a531695157e2069f116"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9208356
+project-id = 1644651

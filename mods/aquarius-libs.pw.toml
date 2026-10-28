@@ -1,0 +1,13 @@
+name = "Aquarius Libs"
+filename = "aquariuslibs-1.2.0-neoforge-26.2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "209a551d5f5663595f552cef7173e2647cac9b54"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8273136
+project-id = 1412710

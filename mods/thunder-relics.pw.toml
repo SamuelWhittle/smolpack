@@ -1,0 +1,13 @@
+name = "Thunder Relics"
+filename = "thunderrelics-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1756160b156d523746092bae0f42ccf49075e8a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9143618
+project-id = 1695587

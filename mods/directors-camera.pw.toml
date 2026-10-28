@@ -1,0 +1,13 @@
+name = "Director's Camera"
+filename = "directorscamera-26.1.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87dc2ea0d4ee1b9d4c4676fe0047def43414f7fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8802708
+project-id = 1679326

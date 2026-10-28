@@ -1,0 +1,13 @@
+name = "DimEnergy"
+filename = "dimenergy-26.1.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f83522e9b157f9ce6c43c77312ffdf68aa6c646"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8669298
+project-id = 1518748

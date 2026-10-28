@@ -1,0 +1,13 @@
+name = "Pipe Graph"
+filename = "pipe-graph-0.9.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "210daec3a6a4cbe73daf1c279e193cdce06419e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8200833
+project-id = 1494073

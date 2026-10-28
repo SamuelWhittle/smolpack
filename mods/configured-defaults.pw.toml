@@ -1,0 +1,13 @@
+name = "Configured Defaults"
+filename = "configureddefaults-v26.1.1-mc26.1.x+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa9319369c4ea44c77a33895a9e25c20ecc091dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8980016
+project-id = 930131

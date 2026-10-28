@@ -1,0 +1,13 @@
+name = "BBL Dimensional Resources"
+filename = "dimresources-26.1.2-1.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ed6ce56273c83b575c0b46ffc417d874dbcbc6e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8880263
+project-id = 1556635

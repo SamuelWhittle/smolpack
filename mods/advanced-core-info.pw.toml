@@ -1,0 +1,13 @@
+name = "Advanced Core Info (ACI)"
+filename = "AdvancedCoreInfo-neoforge-26.1.2-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c10bdbb094659893994f2adbea9ca4009187a88"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9214370
+project-id = 1661923

@@ -1,0 +1,13 @@
+name = "ConTex"
+filename = "ConnectedTextures-13.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b74eb80c975b1e88311f7d43552124ab9025758f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7806346
+project-id = 1296805

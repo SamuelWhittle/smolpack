@@ -1,0 +1,13 @@
+name = "Transparent AE2"
+filename = "transparentae2-26.1.2-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf8f90ab9a67d670c1a4b383d687cf43d47a6454"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9195581
+project-id = 1660041

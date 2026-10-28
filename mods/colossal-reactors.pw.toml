@@ -1,0 +1,13 @@
+name = "Colossal Reactors"
+filename = "colossal_reactors-2.4.1.0.0-neoforge-26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "484470763810dba5216f18c8654d75684f9d4a40"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9155104
+project-id = 1479149

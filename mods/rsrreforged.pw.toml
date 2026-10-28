@@ -1,0 +1,13 @@
+name = "RSRequestify: Reforged"
+filename = "rsrreforged-neoforge-26.1.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a32b30e7196b04c45614c5dfefa7e6d6d9fc341"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8154686
+project-id = 1540277

@@ -1,0 +1,13 @@
+name = "Fertilization"
+filename = "fertilization-neoforge-26.1.2-26.1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc9805873c2f101ec71b8990f5c185ad2535dfe9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8969800
+project-id = 304095

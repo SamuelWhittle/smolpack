@@ -1,0 +1,13 @@
+name = "Context Matters"
+filename = "context-matters-0.9.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "39f1f6ca38e8f372194d70642327d220ed498067"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8200830
+project-id = 1265417

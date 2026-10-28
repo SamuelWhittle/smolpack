@@ -1,0 +1,13 @@
+name = "Chisel 3"
+filename = "chisel-26.1.2.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc8be3e8422d7fd29728ec721a3ecccac8cb4516"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9113836
+project-id = 225236

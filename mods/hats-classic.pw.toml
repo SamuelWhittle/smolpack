@@ -1,0 +1,13 @@
+name = "Hats (Classic)"
+filename = "hatsneoforge-26.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fbbd06c0a85356f5380b2ddf2ffe84c3c47692d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8035007
+project-id = 1418069

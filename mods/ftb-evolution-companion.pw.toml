@@ -1,0 +1,13 @@
+name = "FTB Evolution Companion"
+filename = "ftb-evolution-companion-26.1.2.24.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b23707bc3036da7130b3794fa74105b86e16618"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9281732
+project-id = 1647403

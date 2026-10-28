@@ -1,0 +1,13 @@
+name = "Applied Oritech"
+filename = "applied_oritech-1.0.4+26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2adca7bc9d86d77a21add6d8ebadb169b310b863"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8944228
+project-id = 1686167

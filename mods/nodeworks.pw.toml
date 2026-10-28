@@ -1,0 +1,13 @@
+name = "Nodeworks"
+filename = "nodeworks-0.11.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0c232a4c591a33354097b1c6b312015e99bb9f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9282912
+project-id = 1528079

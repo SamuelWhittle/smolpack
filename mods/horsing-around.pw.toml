@@ -1,0 +1,13 @@
+name = "Horsing Around"
+filename = "HorsingAround-26.1.2-0.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7cd9df8b607c944534f0d7f65f359ed8169831a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9173853
+project-id = 923844

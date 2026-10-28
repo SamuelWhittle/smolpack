@@ -1,0 +1,13 @@
+name = "Default Server Properties"
+filename = "default-server-properties-neoforge-26.1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c432ef54f4d6906585074359df6f68f51328ae8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8598585
+project-id = 676811

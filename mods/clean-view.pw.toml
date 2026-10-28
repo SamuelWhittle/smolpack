@@ -1,0 +1,13 @@
+name = "Clean View [NeoForge]"
+filename = "cleanview 26.1 - 26.1.1 V1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d7f8b70e4a1b65c2f0d59066d82b0c03f21bcfe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7891887
+project-id = 1165011

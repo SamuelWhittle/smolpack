@@ -1,0 +1,13 @@
+name = "Auroral"
+filename = "auroral-26.1.2-1.5.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4cf9de34253d2c71c0f4ee23f17f120289fa2be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9223962
+project-id = 1422678

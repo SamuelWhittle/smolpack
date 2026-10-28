@@ -1,0 +1,13 @@
+name = "Frost Bear"
+filename = "frostbear-neoforge-26.1.2-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c52dbb0e935db73fd8fcd86c080497d4c28ecbb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9189656
+project-id = 1624518

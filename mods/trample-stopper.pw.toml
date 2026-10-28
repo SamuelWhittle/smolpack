@@ -1,0 +1,13 @@
+name = "Trample Stopper"
+filename = "tramplestopper-neo-26.1.1.0+mc26.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0acfae9a355e55d4d114ebc4da947ede04d08228"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7869083
+project-id = 297028

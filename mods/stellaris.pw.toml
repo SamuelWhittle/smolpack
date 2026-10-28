@@ -1,0 +1,13 @@
+name = "Stellaris"
+filename = "stellaris-26.1.2-neoforge-2.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57d11a6d20a66ba80a71fe4888cc4ecc3fe3d543"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9279639
+project-id = 1036270

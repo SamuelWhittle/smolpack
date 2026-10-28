@@ -1,0 +1,13 @@
+name = "Industrial Contraptions (by FTB)"
+filename = "ftb-industrial-contraptions-26.1.2.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6cf52d4e16ddc491ef912b2354edc940f271b3b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9208708
+project-id = 539097

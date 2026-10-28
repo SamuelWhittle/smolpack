@@ -1,0 +1,13 @@
+name = "Just Another Witchery Remake"
+filename = "witchery-0.5.26+mc26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e3908fb5b18542b72140ff2da57e3769c9477ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9270951
+project-id = 1125946

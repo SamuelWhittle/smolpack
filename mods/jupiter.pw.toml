@@ -1,0 +1,13 @@
+name = "Jupiter"
+filename = "jupiter-2.4.3-26.1.2-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d867314e34a27607027f0db9f2e326dd13514b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8621734
+project-id = 1072905

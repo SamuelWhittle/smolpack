@@ -1,0 +1,13 @@
+name = "Prism [Neo/Forge]"
+filename = "Prism-26.1.2-neoforge-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab9fa08cef645b3b63f04eda2a7ceb002dae59dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8308350
+project-id = 638111

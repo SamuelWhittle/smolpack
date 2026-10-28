@@ -1,0 +1,13 @@
+name = "Applied Cooking"
+filename = "appliedcooking-7.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d865e3c16105991d9949dbbe26e49c4f8cef3ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8527899
+project-id = 689579

@@ -1,0 +1,13 @@
+name = "Construction Sticks Grips"
+filename = "Construction Sticks Grips 26.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66a7a169090f3815db4ac61da45c1c5edae6cfcb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8788042
+project-id = 1374261

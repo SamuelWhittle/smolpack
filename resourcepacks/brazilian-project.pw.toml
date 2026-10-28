@@ -1,0 +1,13 @@
+name = "The Brazilian Localization Project [PT-BR]"
+filename = "The Brazilian Project [26.1.2-1.4.0].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa6a1f0e338219292a7f00b0694401d680f2b471"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9085957
+project-id = 1465500

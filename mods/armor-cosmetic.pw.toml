@@ -1,0 +1,13 @@
+name = "Armor Cosmetic"
+filename = "armor_cosmetic-26.1.2-neoforge-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd5ad1181621000f19db92e881fc2c99c2b3a5b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9123632
+project-id = 1600093

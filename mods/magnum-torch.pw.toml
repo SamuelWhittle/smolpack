@@ -1,0 +1,13 @@
+name = "Magnum Torch"
+filename = "MagnumTorch-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4497bf580b5738a1758c5891926416eca7e864d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8004736
+project-id = 593981

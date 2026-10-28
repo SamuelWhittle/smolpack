@@ -1,0 +1,13 @@
+name = "Advanced Loot Info (ALI)"
+filename = "AdvancedLootInfo-neoforge-26.1.2-2.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a29b76913c24c9780c9f0b235d4de80e718766b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9214389
+project-id = 1205426

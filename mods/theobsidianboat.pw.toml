@@ -1,0 +1,13 @@
+name = "TheObsidianBoat"
+filename = "obsidianboat-neo-26.1.1.0+mc26.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41ef6048c9cb7b795c28ea3095421d66a7b2ad0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7869085
+project-id = 510648

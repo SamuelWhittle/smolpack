@@ -1,0 +1,13 @@
+name = "Refined Fluid Substitution"
+filename = "refinedfluidsubstitution-neoforge-26.1.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63a14488bfda24d4c46568ca1457e59514b5bde0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8667766
+project-id = 1654826

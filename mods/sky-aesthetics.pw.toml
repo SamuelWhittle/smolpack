@@ -1,0 +1,13 @@
+name = "Sky Aesthetics"
+filename = "sky_aesthetics-neoforge-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "246a55e33b838a43a849e66be8921ef1e8650bc7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9279606
+project-id = 1096636

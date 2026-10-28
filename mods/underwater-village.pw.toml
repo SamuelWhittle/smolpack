@@ -1,0 +1,13 @@
+name = "Underwater Village - Oceanic Structures"
+filename = "underwater_village-1.0.0 Neoforge 26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51c5c36c1aedbd175b9c19821de5010f66b838e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7952425
+project-id = 1228716

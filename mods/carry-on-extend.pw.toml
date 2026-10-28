@@ -1,0 +1,13 @@
+name = "Carry On Extend"
+filename = "carryonextend-architectury-neoforge-26.1.2-1.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a812eb898cd67a7dd991cc1d67fe23d022e55bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8600020
+project-id = 1245887

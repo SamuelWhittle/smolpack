@@ -1,0 +1,13 @@
+name = "Animal Garden - Sea Otter"
+filename = "animalgarden-seaotter-1.1.1-neoforge-26.2.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1eacaa879de4f9d88a6ff38981c1d3431de23d44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8280219
+project-id = 1377848

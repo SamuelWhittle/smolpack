@@ -1,0 +1,13 @@
+name = "Yeetus Experimentus"
+filename = "yeetusexperimentus-neoforge-99.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ce53fea8cd627f736bab80a1f804d163fe10608"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7830957
+project-id = 635427

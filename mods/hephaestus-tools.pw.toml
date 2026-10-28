@@ -1,0 +1,13 @@
+name = "Hephaestus Tools"
+filename = "hephaestus_tools-neoforge-26.1.2-1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "95634d247adeb21bb980dd7bd8f2afcc4145ea25"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9262407
+project-id = 1725286

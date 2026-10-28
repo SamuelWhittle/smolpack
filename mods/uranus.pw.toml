@@ -1,0 +1,13 @@
+name = "Uranus"
+filename = "uranus-3.0-alpha.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce2febb97f988cfc0ec60dd5151c0e2853080e65"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8689800
+project-id = 1010827

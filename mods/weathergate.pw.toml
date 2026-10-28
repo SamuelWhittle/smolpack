@@ -1,0 +1,13 @@
+name = "WeatherGate"
+filename = "weathergate-neo-26.1.1.0+mc26.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03b336ccd52d1d0d471fd5bfae6217daa00e8bc8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7869093
+project-id = 1048090

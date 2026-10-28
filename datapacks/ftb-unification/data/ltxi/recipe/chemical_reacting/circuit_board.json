@@ -1,0 +1,24 @@
+{
+  "type": "ltxi:chemical_reacting",
+  "fluid_inputs": [
+    {
+      "amount": 500,
+      "ingredient": "#c:sulfuric_acid"
+    }
+  ],
+  "item_inputs": [
+    {
+      "count": 2,
+      "ingredient": "ltxi:polymer_sheet"
+    },
+    {
+      "ingredient": "#c:plates/copper"
+    }
+  ],
+  "item_results": [
+    {
+      "count": 1,
+      "id": "ltxi:circuit_board"
+    }
+  ]
+}

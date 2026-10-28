@@ -1,0 +1,13 @@
+name = "EclipseUI"
+filename = "EclipseUI-neoforge-1.0.4+mc26.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f52b0f45f0290f258728b16842aa9efa50cdd60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7966553
+project-id = 1509307

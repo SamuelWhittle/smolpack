@@ -1,0 +1,13 @@
+name = "ToroHealth Damage Indicators Continued"
+filename = "torohealth-continued-neoforge-26.1-1.5.1-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f78087b137825c9ff5f485a9c15a2c243ce8a6e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7925470
+project-id = 1412542

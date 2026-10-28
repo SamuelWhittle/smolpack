@@ -1,0 +1,13 @@
+name = "Applied Energistics 2 Wireless Terminals"
+filename = "ae2wtlib-26.1.2-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7286ffb0c5efa618ab1d82a73c0bb32aa054298"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9149560
+project-id = 459929

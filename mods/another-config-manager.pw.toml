@@ -1,0 +1,13 @@
+name = "Another Config Manager"
+filename = "another_config_manager-1.0.0.0.0-neoforge-26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b20e92f7bab6ac9ab5c50340582307402e2e8566"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9018481
+project-id = 1719301

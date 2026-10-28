@@ -1,0 +1,13 @@
+name = "LimaCore"
+filename = "limacore-26.1.2-2.11.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "84b47b21519bfbbe400545d85d78a3a2fd35256e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9243387
+project-id = 1075362

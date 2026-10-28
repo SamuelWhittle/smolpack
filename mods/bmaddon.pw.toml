@@ -1,0 +1,13 @@
+name = "BloodMagic AE2 Addition(and NeoVitae)"
+filename = "RBMAddon26.1.2-beta3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "74c44260cd154a19b8344afee76a4c2cac2cff33"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8524858
+project-id = 1526330

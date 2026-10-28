@@ -1,0 +1,13 @@
+name = "Horse Powered"
+filename = "horsepowered-26.1.2-3.11.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea2bbf330cf5896fe627457bf39fd175b8d09cf3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9267139
+project-id = 1408330

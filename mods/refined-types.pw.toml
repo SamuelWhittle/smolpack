@@ -1,0 +1,13 @@
+name = "Refined Types"
+filename = "refined-types-26.1.2-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e8ee5c338555531712163f61a456a6065b125a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9097357
+project-id = 1327983

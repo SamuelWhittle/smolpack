@@ -1,0 +1,13 @@
+name = "Iskandert's Library"
+filename = "iska_lib-1.12.0.1.0-neoforge-26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b16820381eb6f79f44cd9310f2a5f89daf83174"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9052477
+project-id = 1516512

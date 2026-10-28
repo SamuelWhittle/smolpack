@@ -1,0 +1,13 @@
+name = "Decorative Wooden Lattices"
+filename = "Decorativewoodenlattices 26.1.2 - v1.0 - NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29fca54824dcc9b55e8c43546c4c00f43448987b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8298423
+project-id = 994370

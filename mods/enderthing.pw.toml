@@ -1,0 +1,13 @@
+name = "Enderthing"
+filename = "Enderthing-26.1.2-1.10.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "537b25ac166f9ea5b79c5532e2855f56b111ee82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8452028
+project-id = 244421

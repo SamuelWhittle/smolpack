@@ -1,0 +1,13 @@
+name = "Agritech: Evolved (ATE)"
+filename = "agritechevolved-2.2.0.6+neoforge-mc26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3e3c231b273a38316ae583aad3c98a02a80dad7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9155589
+project-id = 1287394

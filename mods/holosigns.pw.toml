@@ -1,0 +1,13 @@
+name = "HoloSigns"
+filename = "HoloSigns-26.1-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9217447cf184fbe8da0de3d0c9463bdfffc44df0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7835147
+project-id = 1167427

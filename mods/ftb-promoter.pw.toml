@@ -1,0 +1,13 @@
+name = "FTB Promoter"
+filename = "ftbpromoter-26.1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e670a2b6255611fc57b2065188961f68c3b71021"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9068454
+project-id = 1194001

@@ -1,0 +1,13 @@
+name = "MINT Lib"
+filename = "mint_lib-0.4.0-26.1b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "565b68b013c6716b2d570ec120327baefdc8dc35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8200389
+project-id = 1218329

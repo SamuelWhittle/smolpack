@@ -1,0 +1,13 @@
+name = "Flat Bedrock (Forge / Fabric)"
+filename = "flatbedrock-neoforge-99.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "136619d012262097114c0de08ac00e085bf3995a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7830436
+project-id = 398623

@@ -1,0 +1,13 @@
+name = "Dragon Egg Respawns"
+filename = "dragon-egg-respawns-v1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "064ce6a143064e790afc6c845955ffb4b8a00342"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8382214
+project-id = 1497138

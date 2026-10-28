@@ -1,0 +1,13 @@
+name = "Animal Garden - Bull Shark"
+filename = "animalgarden-bullshark-1.1.1-neoforge-26.1.1.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78d84035497ca6e3466d2a078fe71574e8997c0c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7885548
+project-id = 1363244

@@ -1,0 +1,13 @@
+name = "Resettable Trial Vaults & Spawners"
+filename = "resettable_trial_chambers-1.1.0-neoforge-26.1.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cecc8e0c1a1526a404bffa70d898992e7cc5afce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9277250
+project-id = 1446109

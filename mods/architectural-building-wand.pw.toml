@@ -1,0 +1,13 @@
+name = "Architectural Building Wand"
+filename = "architectural-building-wand-1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f637e17624e16df06687cfc852a97fd93ead4531"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9235563
+project-id = 1467556

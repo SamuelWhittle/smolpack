@@ -1,0 +1,13 @@
+name = "Ember's Ancient Remnants"
+filename = "ancient_remnants-1.0.2.2-26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f727d9af570ed39fecfbb81322e50c446e545e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8906796
+project-id = 1624753

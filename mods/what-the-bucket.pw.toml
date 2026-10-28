@@ -1,0 +1,13 @@
+name = "What The Bucket"
+filename = "WhatTheBucket-neoforge-MC26.1.2-26.1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d502fd6e98af7a025e55279ac431359f24d1dbb3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8269815
+project-id = 633747

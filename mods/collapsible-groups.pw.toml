@@ -1,0 +1,13 @@
+name = "Collapsible Groups (JEI/EMI)"
+filename = "collapsible_groups-neoforge-26.1.2-2.0.0-beta4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0bcf074e365b4de6188286cb83dc4e61c7c634b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9264151
+project-id = 1495382

@@ -1,0 +1,13 @@
+name = "Mystian Apiary"
+filename = "mystianapiary-neoforge-1.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "705048eb446294daa475449e5e99ef7782e0491f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9169076
+project-id = 1348575

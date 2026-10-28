@@ -1,0 +1,13 @@
+name = "Laser Bridges & Doors [Fabric/Forge/NeoForge]"
+filename = "laserbridges-26.1.2-neoforge-6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "09f4ccdf293a2fa8c4c7a8172536cab6d40d828d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9183002
+project-id = 776337

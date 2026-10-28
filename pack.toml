@@ -1,4 +1,4 @@
-name = "smolpack"
+name = "Smolpack"
 author = "Samuel Whittle"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,11 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8381dac5467f9871ea24e884e92c2b0688f84bbf014d8bf11541790a3d50544c"
+hash = "0d01ad2b0d36302dc992fd118d30dedae2b8ef63554fe823f589d68581957b59"
 
 [versions]
 minecraft = "26.1.2"
 neoforge = "26.1.2.124"
-
-[options]
-acceptable-game-versions = ["26.1"]

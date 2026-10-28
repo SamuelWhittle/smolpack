@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/agritech-evolved.pw.toml"
-hash = "5c6d844867eada97383655c0c6dedbbc0bb95e5b142ede7b097d8128d25001a9"
+hash = "05bfec9d65de1f314c0f8d5778f519067cb7cd0611459c2f74f8f055a6629264"
 metafile = true
 
 [[files]]
@@ -48,11 +48,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "465c5bb547d0b9f87b7573a64f09571d64d3ff43acf2e632f04bd0a6631faf77"
-metafile = true
-
-[[files]]
-file = "mods/architectural-building-wand.pw.toml"
-hash = "d8407b6d3400d45d1fe46798062c41b0c933ecd897f6af8d81dc141f82937ddb"
 metafile = true
 
 [[files]]
@@ -687,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/productivebees.pw.toml"
-hash = "0643a5ebf27969d2e5b4ba482657ec0ac7609748384cd5537b737101f5738a6a"
+hash = "81a4f325670164ffe5034bf5fad9a4eb31ad3581eecdbd67b0db651ac892d352"
 metafile = true
 
 [[files]]

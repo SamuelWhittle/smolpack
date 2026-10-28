@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "84479b2c1303a3d504c92daed8591b6ed4af1c8fc4dc0a535675a01992369cea"
+hash = "920398f51ced9731ce0be501825d260c1919fe0bb3e847bfc531a8ed5bb571dd"
 metafile = true
 
 [[files]]
@@ -22,5 +22,5 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "b2828d6a6ebe7a5bc6b3c5c654705ff886032d0dc6618c59acec76888ee27dce"
+hash = "e32ba97d11b78d30fdaad125f2253a672c3f2e3656d8f05f4f532a6548309da0"
 metafile = true

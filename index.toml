@@ -32870,7 +32870,7 @@ hash = "bef0c7791f470d5b7c22bc33af120be30a9a78bb3947c0e428c433bfec8b85d7"
 
 [[files]]
 file = "default-server.properties"
-hash = "8f389f64e1ed1c64dbcbc1cc670e63fbf74e6ed24dd822014c41ee61ef5b2956"
+hash = "79fe71d2dd1c09221457616ad90344b47c62531ff9a5e7de594844fd55a8dba4"
 
 [[files]]
 file = "kubejs/assets/animal_pen/patchouli_books/guide_book/en_us/entries/animals/animal_parrot.json"
@@ -36610,11 +36610,6 @@ hash = "2e29ef1baa1e1b3f562c4e4423140cf297a2f105297ca67dd98f60184ec8efea"
 metafile = true
 
 [[files]]
-file = "mods/anima-soul-magic.pw.toml"
-hash = "ba37bb4ccb8eadc9fe992c81701adce92dd519329b8d0c25e2a79a471a875d36"
-metafile = true
-
-[[files]]
 file = "mods/animal-garden-alligator-gar.pw.toml"
 hash = "9cc6d1e986d3a146f356419c4f9c5cb4c00f77edd1a7c1ed22556afa91c75666"
 metafile = true
@@ -36821,12 +36816,12 @@ metafile = true
 
 [[files]]
 file = "mods/betterblockz-decorz.pw.toml"
-hash = "9428819885191b2d24c426f1b5b124eb737a8ff2536136b807e946f1d5313cd3"
+hash = "35bd3261cc86f7299ef0ffd7bea10a6d8891e3a408f6772b027a0fe0ac33027c"
 metafile = true
 
 [[files]]
 file = "mods/betterblockz.pw.toml"
-hash = "bf8ef2cae4556f101b58dd95086ddcfec38965e406ad8464c74dded474bd6ec0"
+hash = "897922fc77762769acf4eb6b4a0478e44b6cd138f8dddf55bdd37659a97b9969"
 metafile = true
 
 [[files]]
@@ -37109,11 +37104,6 @@ hash = "6535db46f5bd24615c71405cb6f789b2412eaab73969163e7741726822b1db50"
 metafile = true
 
 [[files]]
-file = "mods/dragon-egg-respawns.pw.toml"
-hash = "7097ffee449865881704730d6de860cdaed911510b471cff2ab5e2299d727c14"
-metafile = true
-
-[[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "44cde5b09df0356596fde470501920d8b1ca2dffa57ce296538ce3e0d6047a30"
 metafile = true
@@ -37146,11 +37136,6 @@ metafile = true
 [[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "efd81d1f149a2f39c26252d25349810a646695d2ecdd4389c7fa6bc18e99446a"
-metafile = true
-
-[[files]]
-file = "mods/embers-ancient-remnants.pw.toml"
-hash = "c90ce778db7531739495ed3b5f1b64ff5bb242fa25e0e4d88d1a5a24aeb97a93"
 metafile = true
 
 [[files]]
@@ -37195,7 +37180,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "271fb050af28e8d94bf49169c8dfb26d35c2094ce7277ce5f5975a04a9b88e4d"
+hash = "9c6f1d5dfbf481632b67ec2ecaaf6e935172d46d5dbbf2861ffb274410365536"
 metafile = true
 
 [[files]]
@@ -37554,7 +37539,7 @@ metafile = true
 
 [[files]]
 file = "mods/im-fast.pw.toml"
-hash = "9a64402d1b41fb9d462a2d7f23abe79f1ea7e9a2d1e78f37de522ff2026df916"
+hash = "fac8d391c7c232200b323580e250e3f8d3ecbf14bb7a22d67769d8b86ef4b18d"
 metafile = true
 
 [[files]]
@@ -37953,11 +37938,6 @@ hash = "1fcc0d908adf44f875e7748c8792a800ddfa7afcec118feb40de547200728573"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "209e9f283403e70a2da2f9b50a4640cf5570cda6a6dfb6b1d6f2b4ce69967ffa"
-metafile = true
-
-[[files]]
 file = "mods/more-red.pw.toml"
 hash = "ce4e46a2bb871dae5f47ccabab2dfbcb2ccab9b03afeb64489c8bc9598424317"
 metafile = true
@@ -38154,7 +38134,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "2b00ce4b30764c9111d5995dfeaf88b8591ca5b6190c4f1b9c409b8133d7445b"
+hash = "61b6ede716e04723e1cc9805a6cafe04d64d19f34b7fceacc967195b7058ec10"
 metafile = true
 
 [[files]]
@@ -38264,7 +38244,7 @@ metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
-hash = "a15cb6d340f4cbb04670eedd822eca4d8fda50e852ac1b08d86b6a79dfb10024"
+hash = "122f8b3b824f79980e266beb3337b79011e8815ce7dd1d6c4faca9a139065e17"
 metafile = true
 
 [[files]]
@@ -38288,11 +38268,6 @@ hash = "91da924a2d697dee9c0ed8ad3aa8c430cc3c61202324e80c9948a05602e2626b"
 metafile = true
 
 [[files]]
-file = "mods/resonance-amethyst-overhaul.pw.toml"
-hash = "4f8fef382f87efe477cb6c5c0ce24419264a61054f8d5d3fa9cf2371bf4e2089"
-metafile = true
-
-[[files]]
 file = "mods/rgp-client-2.1.2+mc26.1.2-neoforge.jar"
 hash = "8d0cf1a4ce4c0eb8f4f821d9a0816b103a6f3777ca7cd14d1deb09e1d7db032a"
 
@@ -38308,7 +38283,7 @@ metafile = true
 
 [[files]]
 file = "mods/rsrreforged.pw.toml"
-hash = "1dcba71aa55d6b19808c8269c12114e06ce93a02e30c55dc884e9d7cbdb0c057"
+hash = "db82651d9fed3b9f54881596928f9771aaa13b7abb172bbdf6c4838ecebe8560"
 metafile = true
 
 [[files]]
@@ -38323,7 +38298,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "050aa5f487933158c6044089b30d98ddd98fab44c19452abdb0eebcc004bcbd3"
+hash = "b0abccec2bf7b3a02496e950421e9012d50ddaa8a6fe1d0446cd2570cf0ef7a2"
 metafile = true
 
 [[files]]
@@ -38678,7 +38653,7 @@ metafile = true
 
 [[files]]
 file = "mods/z-core.pw.toml"
-hash = "1a48b5862c02d77455f38a3cdec92f201b78880cbdc23b07a11616c5bded8a42"
+hash = "da210974356f58adf8338871c626a2406abb03c2d2c043f9c74a103c4c89be25"
 metafile = true
 
 [[files]]

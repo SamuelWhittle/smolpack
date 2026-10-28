@@ -3,11 +3,11 @@ filename = "imfast-NEOFORGE-26.1.2-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d90b905ab45ba4a9eaf3c76a3b4af406a7c978d5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/PaUMOeP0/versions/hEVfzyua/imfast-NEOFORGE-26.1.2-1.0.3.jar"
+hash-format = "sha512"
+hash = "2c472639113c021a30d807aab198c9bed3c69426ce1d06a242b248b39ec51761a9574e779a4fd62723af0d7eb56a61d62bed6de1ab9f6630878f00906cb57f47"
 
 [update]
-[update.curseforge]
-file-id = 7936868
-project-id = 1111501
+[update.modrinth]
+mod-id = "PaUMOeP0"
+version = "hEVfzyua"

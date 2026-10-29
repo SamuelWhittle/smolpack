@@ -36855,6 +36855,16 @@ hash = "5e63f44ba5113b18ee66c51f06c5e7a56112784130aa9051d9bedaaf64654933"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "920398f51ced9731ce0be501825d260c1919fe0bb3e847bfc531a8ed5bb571dd"
+metafile = true
+
+[[files]]
+file = "mods/c2me-ocl.pw.toml"
+hash = "783ba891b894ed24b095a9a772528e740fc3fb89f984d2db36e3337103053ad7"
+metafile = true
+
+[[files]]
 file = "mods/cable-facades.pw.toml"
 hash = "c001576ab9dcad649bb5775ffa470e5fdbf8b08051723dc56f4a14fcaf9433be"
 metafile = true
@@ -37235,7 +37245,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "e2b29a3293f497600503155efc181079723693eff25b2b93a6a51561f35908ce"
+hash = "3a85b0ad3f64d9d97e9dec0f123124a79b043c154e50a26312b59c78b1673589"
 metafile = true
 
 [[files]]
@@ -37544,7 +37554,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "17c22e7e3915ff94dd3515654a68aa0545e8da6c97b371d10dfcaa22cd34a0a4"
+hash = "ad3353bfd19f3514edd6bb5205396f970b22fd6f02bbba071f58c266ff79f2e5"
 metafile = true
 
 [[files]]
@@ -37589,7 +37599,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "5cc7aa76b4bec9512069b6d884461286567ce85e7cbbadcfe6b71bd37862fdbf"
+hash = "8c5cb2dd49ce692382f07b658c273bba85623b94d655c88d87ecb3b867929138"
 metafile = true
 
 [[files]]
@@ -37724,7 +37734,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "01b7b91829fdaa0283035295e022d76a23e5315cdf74c0926f1670c0135c55f1"
+hash = "372fd70a6144030642fe015462170259704ae3f197ae4d2a60e7053becb59a86"
 metafile = true
 
 [[files]]
@@ -37854,7 +37864,7 @@ metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "95aed3a748b3bb244b11b6a9328d1bf09440a2ed61ff12a3f644a9761610773f"
+hash = "b68bab945dc7d99301a251af5c9e418c58f36c014ddd8cc4800c6ce62e723816"
 metafile = true
 
 [[files]]
@@ -38138,11 +38148,6 @@ hash = "61b6ede716e04723e1cc9805a6cafe04d64d19f34b7fceacc967195b7058ec10"
 metafile = true
 
 [[files]]
-file = "mods/plonk.pw.toml"
-hash = "059e03ffd55d2b9c47a5fa02679510c3aa4f0f1a086274668ac9c4ded26163a2"
-metafile = true
-
-[[files]]
 file = "mods/polylib.pw.toml"
 hash = "e66b78399d401ca18b0e60e813d503527d34b02a42125dec688690943a38e36f"
 metafile = true
@@ -38287,6 +38292,11 @@ hash = "db82651d9fed3b9f54881596928f9771aaa13b7abb172bbdf6c4838ecebe8560"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "e32ba97d11b78d30fdaad125f2253a672c3f2e3656d8f05f4f532a6548309da0"
+metafile = true
+
+[[files]]
 file = "mods/scannable-reforged.pw.toml"
 hash = "905bd13f5da1ba973f6f7a824116748306caa5b0f5f93a072838832c0ceee700"
 metafile = true
@@ -38353,7 +38363,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "fb25925a17b41f4b034167453301e0e621a1e37da67b6e1b8a69d6d097fca7d6"
+hash = "b53ab3a59ee90c9aa8cd58c9445cddb5890271e52e36d93ca1b8a073c9cc05d0"
 metafile = true
 
 [[files]]

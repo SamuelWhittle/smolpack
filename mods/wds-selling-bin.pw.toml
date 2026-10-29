@@ -1,0 +1,13 @@
+name = "wd's Selling Bin"
+filename = "selling_bin-1.6-NEOFORGE-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/niDbB1Li/versions/GeOtEWNo/selling_bin-1.6-NEOFORGE-26.1.2.jar"
+hash-format = "sha512"
+hash = "dab4e5ee7f76f786e7e9c1f83b308e577d82ed8b6a098cecef329e59a85061d6c98ae9a9b181ed2f1d5e36a8c85894a5bde602ea0d5c252428a2b81c934bd8d3"
+
+[update]
+[update.modrinth]
+mod-id = "niDbB1Li"
+version = "GeOtEWNo"

@@ -38572,6 +38572,11 @@ hash = "4a0e9b135e65377d2989648ed1146881b6777d449e4ad24ee672357142d55f7d"
 metafile = true
 
 [[files]]
+file = "mods/wds-selling-bin.pw.toml"
+hash = "da7529b74a39f708b1e3d05d44a82869b16009bc8d5f34dde46a963ce49d9666"
+metafile = true
+
+[[files]]
 file = "mods/weathergate.pw.toml"
 hash = "b0d12f9933e49e71c190f93983fac7770734e82940dd844a8bc7c0a05eaf2995"
 metafile = true

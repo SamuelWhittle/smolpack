@@ -36860,11 +36860,6 @@ hash = "920398f51ced9731ce0be501825d260c1919fe0bb3e847bfc531a8ed5bb571dd"
 metafile = true
 
 [[files]]
-file = "mods/c2me-ocl.pw.toml"
-hash = "783ba891b894ed24b095a9a772528e740fc3fb89f984d2db36e3337103053ad7"
-metafile = true
-
-[[files]]
 file = "mods/cable-facades.pw.toml"
 hash = "c001576ab9dcad649bb5775ffa470e5fdbf8b08051723dc56f4a14fcaf9433be"
 metafile = true

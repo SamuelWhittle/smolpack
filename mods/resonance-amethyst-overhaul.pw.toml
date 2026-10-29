@@ -5,9 +5,5 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "54b6186e374fcb63a91ebbd6c9d0d758c4add699"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8516613
-project-id = 1616078
+mode = "url"
+url = "https://raw.githubusercontent.com/SamuelWhittle/smolpack/refs/heads/develop/mods/resonance-neoforge-26.1.2-1.0.2.jar"

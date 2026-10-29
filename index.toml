@@ -38268,6 +38268,11 @@ hash = "91da924a2d697dee9c0ed8ad3aa8c430cc3c61202324e80c9948a05602e2626b"
 metafile = true
 
 [[files]]
+file = "mods/resonance-amethyst-overhaul.pw.toml"
+hash = "4f8fef382f87efe477cb6c5c0ce24419264a61054f8d5d3fa9cf2371bf4e2089"
+metafile = true
+
+[[files]]
 file = "mods/rgp-client-2.1.2+mc26.1.2-neoforge.jar"
 hash = "8d0cf1a4ce4c0eb8f4f821d9a0816b103a6f3777ca7cd14d1deb09e1d7db032a"
 

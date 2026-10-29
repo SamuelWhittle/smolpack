@@ -319,6 +319,15 @@
             count: 1,
           },
         },
+        {
+          id: "01DFBF1F556D25AC",
+          type: "fluid",
+          optional_task: true,
+          fluid: {
+            fluid: "anima:molten_yellow_crystal",
+            amount: 1000,
+          },
+        },
       ],
       rewards: [
         {

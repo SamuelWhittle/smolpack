@@ -4950,7 +4950,7 @@ hash = "5495f2bd78a44676ecc6fd13ba328825d6c62470eea0ad875032a08c89b0ba71"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/anima.json5"
-hash = "c6b7455114ea96c1c9687e34ab81c5232e1ee45eecd7fc756164178fe2cf8a39"
+hash = "f9d14297a782ea8bab51966305c7aa7f81074a66e8594b70de6965b99d1ba52f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ars_magica.json5"
@@ -36607,6 +36607,11 @@ metafile = true
 [[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "2e29ef1baa1e1b3f562c4e4423140cf297a2f105297ca67dd98f60184ec8efea"
+metafile = true
+
+[[files]]
+file = "mods/anima-soul-magic.pw.toml"
+hash = "ba37bb4ccb8eadc9fe992c81701adce92dd519329b8d0c25e2a79a471a875d36"
 metafile = true
 
 [[files]]

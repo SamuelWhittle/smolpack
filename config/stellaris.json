@@ -1,6 +1,6 @@
 {
   "oilConfig": {
-    "chunkOilChance": 0,
+    "chunkOilChance": 1,
     "minOil": 10,
     "maxOil": 50000,
     "oilExtractionPerTick": 5,

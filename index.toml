@@ -6510,7 +6510,7 @@ hash = "8084ced9d247508dd220d0f169e549d3f2ad4ef89316922226ca7fd46b2b505f"
 
 [[files]]
 file = "config/stellaris.json"
-hash = "2ddea9749c7b8795907b0136b1a0c4da02142b91afe013debed8006a9433c4af"
+hash = "dcbb0f3ec18456b180bbfd65a057827789f1e08755f43edb9838f92e38910dc9"
 
 [[files]]
 file = "config/stellaris_client.json"
@@ -37364,7 +37364,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "98b47718768cb87d74b54b0fc98a25a5729affddf750cdb9973c1e5b8ecb7c3a"
+hash = "e52886e60c70a18a8a70f3e7781c1716498f4b4847df41b293d06de2cd53291d"
 metafile = true
 
 [[files]]

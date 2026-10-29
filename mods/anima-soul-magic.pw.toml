@@ -5,9 +5,6 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "5cc14eb246b3e06b02a55f59cf8cfa3db8fdbc88"
-mode = "metadata:curseforge"
+mode = "url"
+url = "https://raw.githubusercontent.com/SamuelWhittle/smolpack/refs/heads/develop/mods/Anima-1.0.3+Neoforge-26.1.2.jar"
 
-[update]
-[update.curseforge]
-file-id = 9078329
-project-id = 1706323

@@ -36565,6 +36565,10 @@ file = "mods/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "mods/Anima-1.0.3+Neoforge-26.1.2.jar"
+hash = "8ce75011032335cf0a2c22f240e06423faac07276b1af11d3455d5fc880f6651"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "4152b371d71de1ded6d5ca65c56f2a872b72b7e848a114787e1c0c0f52060a6b"
 metafile = true
@@ -36611,7 +36615,7 @@ metafile = true
 
 [[files]]
 file = "mods/anima-soul-magic.pw.toml"
-hash = "ba37bb4ccb8eadc9fe992c81701adce92dd519329b8d0c25e2a79a471a875d36"
+hash = "1f51c7f7496911d5fd3e5f9c9c6809a533e19ea6380d35e0dfc309e96c61b3a9"
 metafile = true
 
 [[files]]

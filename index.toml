@@ -37163,6 +37163,11 @@ hash = "1ded148f2c51dd088abd30470c9bb39a8f9a55f72e7cabdea53703346ede816c"
 metafile = true
 
 [[files]]
+file = "mods/ender-io-conduit-optimizer.pw.toml"
+hash = "733863d3929e902c33470f0c25e5eeffc5db1d0fc56637cf3053377488dae165"
+metafile = true
+
+[[files]]
 file = "mods/ender-io.pw.toml"
 hash = "370628cbe49d8bf052d93f42f40c95a8fd2e246b762301f2b8545795527b7147"
 metafile = true
@@ -37170,6 +37175,11 @@ metafile = true
 [[files]]
 file = "mods/enderio-evolution.pw.toml"
 hash = "2355e104dd690231be748ea205476dfd043fce1eb45d6067f434916fe56c9623"
+metafile = true
+
+[[files]]
+file = "mods/enderio.pw.toml"
+hash = "d975beecb844ccf1a89a3361dd9a1c098c2eb036af358a2f043562eb0e29cdb4"
 metafile = true
 
 [[files]]

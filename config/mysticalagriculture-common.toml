@@ -33,7 +33,7 @@
 	#Should vanilla crafting recipes for seeds be generated?
 	seedCraftingRecipes = false
 	#Should Supremium & Awakened Supremium Armor be unbreakable?
-	unbreakableSupremiumArmor = false
+	unbreakableSupremiumArmor = true
 	#Should fake players be able to use watering cans?
 	fakePlayerWatering = false
 	#Should wearing a full set of Awakened Supremium armor grant the Plant Growth AOE set bonus?

@@ -6098,7 +6098,7 @@ hash = "980f26ce2c841033da6c0aaa78c854cf8158040c7fe253778cf417a8a9cbb476"
 
 [[files]]
 file = "config/mysticalagriculture-common.toml"
-hash = "c400fdeaf1537d18adc59b926d3912d4509dc96f7c7017dc7a23e8ffb305f400"
+hash = "51e0d6de732c9878dd9f18f904c4e97d373d8aaa05e8c0a9938bfce8747cf3cb"
 
 [[files]]
 file = "config/mysticalautomation-common.toml"

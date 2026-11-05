@@ -4246,7 +4246,7 @@ hash = "4a0b8a8b3c5e642bbd2e457529885c38cd322cd295bbbe6884b20d66bcd39a56"
 
 [[files]]
 file = "config/easy_villagers-server.toml"
-hash = "816ac63742ce47d467aac5b7c58b357338389c4d74e327c2dfb3ed0fc60b2ed7"
+hash = "2436b793ec71cac543a5439e06b09aa1700494e7881622da68f646e802489f04"
 
 [[files]]
 file = "config/eccentrictome-common.toml"
